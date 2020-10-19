@@ -1,0 +1,25 @@
+button {
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  background: rgb(25, 169, 77);
+  border-radius: 10px;
+  box-shadow: 5px 10px 8px #888888;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  height: 100%;
+}
+div {
+  padding: 50px 30px;
+}
